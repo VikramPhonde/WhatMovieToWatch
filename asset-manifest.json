@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/WhatMovieToWatch/static/js/main.1dba3447.js",
+    "static/js/787.c2dc0d58.chunk.js": "/WhatMovieToWatch/static/js/787.c2dc0d58.chunk.js",
+    "index.html": "/WhatMovieToWatch/index.html",
+    "main.1dba3447.js.map": "/WhatMovieToWatch/static/js/main.1dba3447.js.map",
+    "787.c2dc0d58.chunk.js.map": "/WhatMovieToWatch/static/js/787.c2dc0d58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1dba3447.js"
+  ]
+}
